@@ -6,4 +6,4 @@
 - 🌍 Je m’intéresse au **développement web** et au **web design**
 - 💬 N’hésitez pas à me contacter pour discuter de **développement**, de **design** ou de **projets multimédias**
 
-<a href="https://alina-mishcherikovas-portfolio.onrender.com/#hero-img" _target>Mon portfolio</a>
+<a href="https://alina-mishcherikovas-portfolio.onrender.com/#hero-img" target="_blank" class="font-style: italic">Mon portfolio</a>
